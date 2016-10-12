@@ -1,0 +1,67 @@
+/*BODY*/
+
+/*HEADER*/
+#header-nav {
+	background-color: #696969; /*cinza Dim-gray*/
+	border-radius: 0;
+	border: 1px, #000000;
+}
+h1 {
+  color: #000000;
+  font-family: 'Paytone One', sans-serif;
+  margin: -10px 0 0 0;
+}
+
+h2 {
+  color: #000000;
+  font-family: 'Paytone One', sans-serif;
+
+}
+h3 {
+  color: #000000;
+  font-family: 'Paytone One', sans-serif;
+  font-weight: lighter;
+} 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #000000;
+}
+
+p {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+li {
+  background-color: #FFFACD;	/*LemonChiffon*/
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 30px;
+  border: 1px solid #000000;
+  margin-bottom: auto;
+  margin-top: auto;
+}
+
+.navbar-nav>li>a {
+	line-height: 18px;
+	padding-top: 0;
+}
+.navbar-collapse {
+border-top: 0;	
+}
+div.container {
+	background-color: #D3D3D3; /*Light Gray*/
+	height: 1000px;
+	margin: auto auto auto auto;
+	overflow: hidden;
+}
+
+.colum-xs-12 {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#nav-list a:hover {
+  background: #B0C4DE;
+}
+
+div#collapsable-nav.navbar-collapse.collapse.in {
+	height: 153px;
+}
+
